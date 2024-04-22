@@ -1,0 +1,2 @@
+public class DørBillet {
+}
